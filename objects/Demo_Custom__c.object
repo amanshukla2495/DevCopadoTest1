@@ -180,6 +180,7 @@
         <trackTrending>false</trackTrending>
         <type>Email</type>
         <unique>false</unique>
+
     </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
